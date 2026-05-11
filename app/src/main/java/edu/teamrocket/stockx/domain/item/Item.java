@@ -1,5 +1,6 @@
 package edu.teamrocket.stockx.domain.item;
 
+import edu.teamrocket.stockx.domain.offer.Offer;
 import java.util.List;
 
 public interface Item {
