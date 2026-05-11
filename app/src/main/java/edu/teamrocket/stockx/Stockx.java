@@ -1,6 +1,6 @@
 package edu.teamrocket.stockx;
 
-import edu.teamrocket.stockx.domain.Item;
+import edu.teamrocket.stockx.domain.item.Item;
 
 /**
  * StockX nació en Detroit, y allí siguen haciendo

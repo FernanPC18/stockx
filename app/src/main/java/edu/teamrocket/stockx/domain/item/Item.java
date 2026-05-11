@@ -1,4 +1,4 @@
-package edu.teamrocket.stockx.domain;
+package edu.teamrocket.stockx.domain.item;
 
 import java.util.List;
 
